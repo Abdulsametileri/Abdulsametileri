@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=abdulsametileri.abdulsametileri" style="max-width:100%;">
+
 <!--
 **Abdulsametileri/Abdulsametileri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
