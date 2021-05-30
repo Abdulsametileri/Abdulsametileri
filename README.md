@@ -50,7 +50,7 @@
   <img src="https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg" alt="GoHugo" width="40" height="40"/>
 </p>
 
-### Latest Blog Posts
+### All Blog Posts (Desc)
 
 - [Go + Vue ile Telegram Notification Kullanarak Resim Hatırlatma Uygulamasını Nasıl Yaptım?](https://abdulsamet-ileri.medium.com/go-vue-ile-telegram-notification-kullanarak-resim-hat%C4%B1rlatma-uygulamas%C4%B1n%C4%B1-nas%C4%B1l-yapt%C4%B1m-e7ab50bfe4ad)
 - [DataTable with MobX implementation in Flutter](https://levelup.gitconnected.com/datatable-with-mobx-implementation-in-flutter-8c5994b118e1)
