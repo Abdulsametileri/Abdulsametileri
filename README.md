@@ -64,6 +64,10 @@
 - [Görüntü Filtrelerini Uygulama ve Kenarları Algılama](https://abdulsamet-ileri.medium.com/g%C3%B6r%C3%BCnt%C3%BC-filtrelerini-uygulama-ve-kenarlar%C4%B1-alg%C4%B1lama-21d42f194db4)
 - [2D Convolution](https://abdulsamet-ileri.medium.com/2d-convolution-ced5d339aa5)
 - [OpenCV 3.X -Python ile Geometrik Dönüşümlerin Resimlere Uygulanması](https://abdulsamet-ileri.medium.com/opencv-3-x-python-ile-geometrik-d%C3%B6n%C3%BC%C5%9F%C3%BCmlerin-resimlere-uygulanmas%C4%B1-2923ff14f4e7)
+
+### Public Speaking
+- **2020/06/17:** [Go + Vue.js ile Resim Hatırlatma Uygulaması Yapmak](https://www.youtube.com/watch?v=YYvXWVRMpJw)
+
 <!--
 **Abdulsametileri/Abdulsametileri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
