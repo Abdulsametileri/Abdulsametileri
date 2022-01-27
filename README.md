@@ -50,7 +50,7 @@
   <img src="https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg" alt="GoHugo" width="40" height="40"/>
 </p>
 
-### All Blog Posts (Desc)
+### All Blog Posts (Desc) ✍️
 - [Integrating Grafana Notifications with GitLab Pipeline to restart Debezium tasks using Go](https://medium.com/modanisa-engineering/integrating-grafana-notifications-with-gitlab-pipeline-to-restart-debezium-tasks-using-go-1378c9eaf7b8)
 - [Introduction to Keycloak](https://abdulsamet-ileri.medium.com/introduction-to-keycloak-227c3902754a)
 - [Go + Vue ile Telegram Notification Kullanarak Resim Hatırlatma Uygulamasını Nasıl Yaptım?](https://abdulsamet-ileri.medium.com/go-vue-ile-telegram-notification-kullanarak-resim-hat%C4%B1rlatma-uygulamas%C4%B1n%C4%B1-nas%C4%B1l-yapt%C4%B1m-e7ab50bfe4ad)
@@ -66,8 +66,12 @@
 - [2D Convolution](https://abdulsamet-ileri.medium.com/2d-convolution-ced5d339aa5)
 - [OpenCV 3.X -Python ile Geometrik Dönüşümlerin Resimlere Uygulanması](https://abdulsamet-ileri.medium.com/opencv-3-x-python-ile-geometrik-d%C3%B6n%C3%BC%C5%9F%C3%BCmlerin-resimlere-uygulanmas%C4%B1-2923ff14f4e7)
 
-### Public Speaking
+### Public Speaking 📢
 - **2020/06/17:** [Go + Vue.js ile Resim Hatırlatma Uygulaması Yapmak](https://www.youtube.com/watch?v=YYvXWVRMpJw)
+
+### My Slides and Reading List 💪
+- [Slides](https://github.com/Abdulsametileri/slides)
+- [Reading List](https://github.com/Abdulsametileri/my-reading-list)
 
 <!--
 **Abdulsametileri/Abdulsametileri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
