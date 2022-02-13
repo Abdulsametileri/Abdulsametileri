@@ -5,7 +5,7 @@
 ### Languages and Tools
 <p align="left">
   <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40"/>
-  <img src="https://github.com/github/explore/raw/main/topics/go/go.png" alt="go" width="40" height="40"/>
+  <img src="https://w3soft.org/wpub/media-pbld/@langs-short-desc-go/go-logo.svg" alt="go" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/vue/vue.png" alt="vue" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png" alt="csharp" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/dart/dart.png" alt="dart" width="40" height="40"/>
