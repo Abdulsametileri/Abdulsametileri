@@ -51,6 +51,7 @@
 </p>
 
 ### All Blog Posts (Desc) ✍️
+- [How was I build a version control system (VCS) using pure Go 🚀](https://medium.com/@abdulsamet-ileri/how-was-i-build-a-version-control-system-vcs-using-pure-go-83ec8ec5d4f4)
 - [Integrating Grafana Notifications with GitLab Pipeline to restart Debezium tasks using Go](https://medium.com/modanisa-engineering/integrating-grafana-notifications-with-gitlab-pipeline-to-restart-debezium-tasks-using-go-1378c9eaf7b8)
 - [Introduction to Keycloak](https://abdulsamet-ileri.medium.com/introduction-to-keycloak-227c3902754a)
 - [Go + Vue ile Telegram Notification Kullanarak Resim Hatırlatma Uygulamasını Nasıl Yaptım?](https://abdulsamet-ileri.medium.com/go-vue-ile-telegram-notification-kullanarak-resim-hat%C4%B1rlatma-uygulamas%C4%B1n%C4%B1-nas%C4%B1l-yapt%C4%B1m-e7ab50bfe4ad)
