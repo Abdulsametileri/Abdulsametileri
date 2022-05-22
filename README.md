@@ -51,6 +51,7 @@
 </p>
 
 ### All Blog Posts (Desc) ✍️
+- [Let’s implement basic service discovery using Go 🚀](https://abdulsamet-ileri.medium.com/lets-implement-basic-service-discovery-using-go-d91c513883f6)
 - [How did I build a version control system (VCS) using pure Go 🚀](https://medium.com/@abdulsamet-ileri/how-was-i-build-a-version-control-system-vcs-using-pure-go-83ec8ec5d4f4)
 - [Integrating Grafana Notifications with GitLab Pipeline to restart Debezium tasks using Go](https://medium.com/modanisa-engineering/integrating-grafana-notifications-with-gitlab-pipeline-to-restart-debezium-tasks-using-go-1378c9eaf7b8)
 - [Introduction to Keycloak](https://abdulsamet-ileri.medium.com/introduction-to-keycloak-227c3902754a)
