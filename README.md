@@ -39,7 +39,6 @@
   <img src="https://github.com/github/explore/blob/main/topics/android/android.png" alt="android" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/babel/babel.png" alt="babel" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/elasticsearch/elasticsearch.png" alt="elasticsearch" width="40" height="40"/>
-  <img src="https://github.com/github/explore/blob/main/topics/es6/es6.png" alt="es6" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/eslint/eslint.png" alt="eslint" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/figma/figma.png" alt="figma" width="40" height="40"/>
   <img src="https://github.com/github/explore/blob/main/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/>
