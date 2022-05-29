@@ -74,6 +74,7 @@
 ### My Slides and Reading List 💪
 - [Slides](https://github.com/Abdulsametileri/slides)
 - [Reading List](https://github.com/Abdulsametileri/my-reading-list)
+- [Codewars](https://www.codewars.com/users/ileri4s)
 - [Leetcode](https://leetcode.com/ileri4s/)
 
 <!--
