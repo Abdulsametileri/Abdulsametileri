@@ -26,8 +26,8 @@
 - **| 2018 |** [OpenCV 3.X -Python ile Geometrik Dönüşümlerin Resimlere Uygulanması](https://abdulsamet-ileri.medium.com/opencv-3-x-python-ile-geometrik-d%C3%B6n%C3%BC%C5%9F%C3%BCmlerin-resimlere-uygulanmas%C4%B1-2923ff14f4e7)
 
 ### Public Speaking
-- **2021/12/19:** [Consumer Driven Contract Using Pact in Go - GopherConTR 2021](https://www.youtube.com/watch?v=vkN6AFUa-5Y)
-- **2020/06/17:** [Go + Vue.js ile Resim Hatırlatma Uygulaması Yapmak](https://www.youtube.com/watch?v=YYvXWVRMpJw)
+- **| 2021 |** [Consumer Driven Contract Using Pact in Go - GopherConTR 2021](https://www.youtube.com/watch?v=vkN6AFUa-5Y)
+- **| 2020 |** [Go + Vue.js ile Resim Hatırlatma Uygulaması Yapmak](https://www.youtube.com/watch?v=YYvXWVRMpJw)
 
 <!--
 **Abdulsametileri/Abdulsametileri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
