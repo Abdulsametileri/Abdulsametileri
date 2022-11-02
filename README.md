@@ -4,6 +4,7 @@
 
 ### [My Book Reading List](https://github.com/Abdulsametileri/my-reading-list)
 - **CURRENTLY READING |** [Enterprise Integration Patterns Designing, Building and Deploying Messaging Solutions](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
+- **CURRENTLY READING |-- [100 Go Mistakes and How to Avoid Them (Teiva Harsanyi)](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 - **CURRENTLY READING |** [Data Mesh Delivering Data-Driven Value at Scale](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398)
 
 ### [My Blog Posts](https://abdulsamet-ileri.medium.com/)
