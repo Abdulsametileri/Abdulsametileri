@@ -2,12 +2,12 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulsametileri.abdulsametileri" style="max-width:100%;">
 
-### [My Book Reading List](https://github.com/Abdulsametileri/my-reading-list)
+### [👉 My Book Reading List](https://github.com/Abdulsametileri/my-reading-list)
 - **CURRENTLY READING |** [Enterprise Integration Patterns Designing, Building and Deploying Messaging Solutions](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683))
 - **CURRENTLY READING |** [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 - **CURRENTLY READING |** [Data Mesh Delivering Data-Driven Value at Scale](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398)
 
-### [My Blog Posts](https://abdulsamet-ileri.medium.com/)
+### [👉 My Blog Posts](https://abdulsamet-ileri.medium.com/)
 - **| 2022 |** [Kafka Exception Cronsumer 🔥 🚀](https://medium.com/trendyol-tech/kafka-exception-c-r-onsumer-37c459e4849d)
 - **| 2022 |** [Let’s implement a real-time package tracking app with RabbitMQ and Web socket using Go 🚀](https://abdulsamet-ileri.medium.com/lets-implement-a-real-time-package-tracking-app-with-rabbitmq-and-web-socket-using-go-80f5a5ca5c55)
 - **| 2022 |** [Let’s implement basic service discovery using Go 🚀](https://abdulsamet-ileri.medium.com/lets-implement-basic-service-discovery-using-go-d91c513883f6)
