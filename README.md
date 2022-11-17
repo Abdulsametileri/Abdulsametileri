@@ -7,6 +7,7 @@
 - **CURRENTLY READING |** [Data Mesh Delivering Data-Driven Value at Scale](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398)
 
 ### [👉 My Blog Posts](https://abdulsamet-ileri.medium.com/)
+- **| 2022 |** [Boosting your Kafka integration tests using Redpanda with Go 🚀](https://abdulsamet-ileri.medium.com/boosting-your-kafka-integration-tests-using-redpanda-with-go-247e4276c61d)
 - **| 2022 |** [Kafka Exception Cronsumer 🔥 🚀](https://medium.com/trendyol-tech/kafka-exception-c-r-onsumer-37c459e4849d)
 - **| 2022 |** [Let’s implement a real-time package tracking app with RabbitMQ and Web socket using Go 🚀](https://abdulsamet-ileri.medium.com/lets-implement-a-real-time-package-tracking-app-with-rabbitmq-and-web-socket-using-go-80f5a5ca5c55)
 - **| 2022 |** [Let’s implement basic service discovery using Go 🚀](https://abdulsamet-ileri.medium.com/lets-implement-basic-service-discovery-using-go-d91c513883f6)
