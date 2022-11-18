@@ -3,8 +3,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulsametileri.abdulsametileri" style="max-width:100%;">
 
 ### [👉 My Book Reading List](https://github.com/Abdulsametileri/my-reading-list)
-- **CURRENTLY READING |** [Enterprise Integration Patterns Designing, Building and Deploying Messaging Solutions](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683))
-- **CURRENTLY READING |** [Data Mesh Delivering Data-Driven Value at Scale](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398)
+- **CURRENTLY READING |** [Refactoring Databases: Evolutionary Database Design](https://www.amazon.com/Refactoring-Databases-Evolutionary-paperback-Addison-Wesley/dp/0321774515)
 
 ### [👉 My Blog Posts](https://abdulsamet-ileri.medium.com/)
 - **| 2022 |** [Boosting your Kafka integration tests using Redpanda with Go 🚀](https://abdulsamet-ileri.medium.com/boosting-your-kafka-integration-tests-using-redpanda-with-go-247e4276c61d)
