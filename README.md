@@ -3,7 +3,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulsametileri.abdulsametileri" style="max-width:100%;">
 
 ### [👉 My Book Reading List](https://github.com/Abdulsametileri/my-reading-list)
-- **CURRENTLY READING |** [Refactoring Databases: Evolutionary Database Design](https://www.amazon.com/Refactoring-Databases-Evolutionary-paperback-Addison-Wesley/dp/0321774515)
+- **CURRENTLY READING |** [97 Things Every SRE Should Know Collective Wisdom from the Experts-O'Reilly Media](https://www.amazon.com/Things-Every-SRE-Should-Know/dp/1492081493)
 
 ### [👉 My Blog Posts](https://abdulsamet-ileri.medium.com/)
 - **| 2022 |** [Boosting your Kafka integration tests using Redpanda with Go 🚀](https://abdulsamet-ileri.medium.com/boosting-your-kafka-integration-tests-using-redpanda-with-go-247e4276c61d)
