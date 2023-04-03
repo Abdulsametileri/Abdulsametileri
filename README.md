@@ -4,6 +4,7 @@
 
 ### [👉 My Book Reading List](https://github.com/Abdulsametileri/my-reading-list)
 - **CURRENTLY READING |** [Head First Design Patterns Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
+- **CURRENTLY READING |** [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914)
 
 ### [👉 My Blog Posts](https://abdulsamet-ileri.medium.com/)
 - **| 2022 |** [Boosting your Kafka integration tests using Redpanda with Go 🚀](https://abdulsamet-ileri.medium.com/boosting-your-kafka-integration-tests-using-redpanda-with-go-247e4276c61d)
