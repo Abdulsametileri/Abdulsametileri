@@ -7,6 +7,7 @@
 - **CURRENTLY READING |** [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914)
 
 ### [👉 My Blog Posts](https://abdulsamet-ileri.medium.com/)
+- **| 2023 |** [New Winner of Kafka Consumers: Scala to Go Journey 350 Million Messages per Day](https://abdulsamet-ileri.medium.com/new-winner-of-kafka-consumers-scala-to-go-journey-604c6bdd7041)
 - **| 2022 |** [Boosting your Kafka integration tests using Redpanda with Go 🚀](https://abdulsamet-ileri.medium.com/boosting-your-kafka-integration-tests-using-redpanda-with-go-247e4276c61d)
 - **| 2022 |** [Kafka Exception Cronsumer 🔥 🚀](https://medium.com/trendyol-tech/kafka-exception-c-r-onsumer-37c459e4849d)
 - **| 2022 |** [Let’s implement a real-time package tracking app with RabbitMQ and Web socket using Go 🚀](https://abdulsamet-ileri.medium.com/lets-implement-a-real-time-package-tracking-app-with-rabbitmq-and-web-socket-using-go-80f5a5ca5c55)
