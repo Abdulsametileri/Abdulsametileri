@@ -4,6 +4,7 @@
 
 ### [👉 My Book Reading List](https://github.com/Abdulsametileri/my-reading-list)
 - **CURRENTLY READING |** [Head First Design Patterns Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
+- **CURRENTLY READING |** [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
 ### [👉 My Blog Posts](https://abdulsamet-ileri.medium.com/)
 - **| 2023 |** [New Winner of Kafka Consumers: Scala to Go Journey 350 Million Messages per Day](https://abdulsamet-ileri.medium.com/new-winner-of-kafka-consumers-scala-to-go-journey-604c6bdd7041)
