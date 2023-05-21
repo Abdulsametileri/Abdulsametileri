@@ -7,6 +7,7 @@
 - **CURRENTLY READING |** [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
 ### [👉 My Blog Posts](https://abdulsamet-ileri.medium.com/)
+- **| 2023 |** [How to use Consul-based Service Discovery in Prometheus 🤔](https://abdulsamet-ileri.medium.com/how-to-use-consul-based-service-discovery-in-prometheus-869ff04b357c)
 - **| 2023 |** [New Winner of Kafka Consumers: Scala to Go Journey 350 Million Messages per Day](https://abdulsamet-ileri.medium.com/new-winner-of-kafka-consumers-scala-to-go-journey-604c6bdd7041)
 - **| 2022 |** [Boosting your Kafka integration tests using Redpanda with Go 🚀](https://abdulsamet-ileri.medium.com/boosting-your-kafka-integration-tests-using-redpanda-with-go-247e4276c61d)
 - **| 2022 |** [Kafka Exception Cronsumer 🔥 🚀](https://medium.com/trendyol-tech/kafka-exception-c-r-onsumer-37c459e4849d)
