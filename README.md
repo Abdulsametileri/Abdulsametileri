@@ -4,7 +4,6 @@
 
 ### [👉 My Book Reading List](https://github.com/Abdulsametileri/my-reading-list)
 - **CURRENTLY READING |** [Head First Design Patterns Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
-- **CURRENTLY READING |** [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
 ### [👉 My Blog Posts](https://abdulsamet-ileri.medium.com/)
 - **| 2023 |** [How to use Consul-based Service Discovery in Prometheus 🤔](https://abdulsamet-ileri.medium.com/how-to-use-consul-based-service-discovery-in-prometheus-869ff04b357c)
