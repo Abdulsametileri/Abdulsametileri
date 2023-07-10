@@ -3,9 +3,9 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulsametileri.abdulsametileri" style="max-width:100%;">
 
 ### [👉 My Book Reading List](https://github.com/Abdulsametileri/my-reading-list)
-- **CURRENTLY READING |** [Head First Design Patterns Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
 
 ### [👉 My Blog Posts](https://abdulsamet-ileri.medium.com/)
+- **| 2023 |** [Kafka Konsumer 🔥🚀](https://medium.com/trendyol-tech/kafka-konsumer-c47b4b8c1599)
 - **| 2023 |** [How to use Consul-based Service Discovery in Prometheus 🤔](https://abdulsamet-ileri.medium.com/how-to-use-consul-based-service-discovery-in-prometheus-869ff04b357c)
 - **| 2023 |** [New Winner of Kafka Consumers: Scala to Go Journey 350 Million Messages per Day](https://abdulsamet-ileri.medium.com/new-winner-of-kafka-consumers-scala-to-go-journey-604c6bdd7041)
 - **| 2022 |** [Boosting your Kafka integration tests using Redpanda with Go 🚀](https://abdulsamet-ileri.medium.com/boosting-your-kafka-integration-tests-using-redpanda-with-go-247e4276c61d)
