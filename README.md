@@ -5,6 +5,7 @@
 ### [👉 My Book Reading List](https://github.com/Abdulsametileri/my-reading-list)
 
 ### [👉 My Blog Posts](https://abdulsamet-ileri.medium.com/)
+- **| 2023 |** [Let’s implement a basic leader election algorithm using Go with RPC](https://medium.com/itnext/lets-implement-a-basic-leader-election-algorithm-using-go-with-rpc-6cd012515358)
 - **| 2023 |** [Kafka Konsumer 🔥🚀](https://medium.com/trendyol-tech/kafka-konsumer-c47b4b8c1599)
 - **| 2023 |** [How to use Consul-based Service Discovery in Prometheus 🤔](https://abdulsamet-ileri.medium.com/how-to-use-consul-based-service-discovery-in-prometheus-869ff04b357c)
 - **| 2023 |** [New Winner of Kafka Consumers: Scala to Go Journey 350 Million Messages per Day](https://abdulsamet-ileri.medium.com/new-winner-of-kafka-consumers-scala-to-go-journey-604c6bdd7041)
