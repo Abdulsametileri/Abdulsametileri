@@ -5,6 +5,7 @@
 ### [👉 My Book Reading List](https://github.com/Abdulsametileri/my-reading-list)
 
 ### [👉 My Blog Posts](https://abdulsamet-ileri.medium.com/)
+- **| 2024 |** [Tuning Go Application, which has GC issues with a few steps](https://medium.com/@abdulsamet-ileri/tuning-go-application-which-has-gc-issues-with-a-few-steps-4487624b313e)
 - **| 2024 |** [Kafka Konsumer Two Years Journey](https://medium.com/trendyol-tech/kafka-konsumer-two-years-journey-3e00b46c9ea3)
 - **| 2023 |** [Let's implement a basic hotel reservation system with 2PC using pessimistic and optimistic locks in Go](https://abdulsamet-ileri.medium.com/lets-implement-a-basic-hotel-reservation-system-with-2pc-using-pessimistic-and-optimistic-locks-in-581256d142e8)
 - **| 2023 |** [Profiling Go Applications in the Right Way with Examples](https://abdulsamet-ileri.medium.com/profiling-go-applications-in-the-right-way-with-examples-e784526e9481)
